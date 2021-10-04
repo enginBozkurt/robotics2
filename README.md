@@ -1,5 +1,12 @@
 # Robotics Book Draft
 
+Copyright (c) Frank Dellaert and Seth Hutchinson, All rights Reserved
+
+The code in the notebooks and python .py files is covered by the BSD license, like GTSAM; see the LICENSE.BSD file for details.
+
+The remainder (including all markdown cells in the notebooks and other prose) is not licensed for any redistribution or change of format or medium, other than making copies of the notebooks or forking this repo for your own private use. No commercial or broadcast use is allowed. We are making these materials freely available to help you learn robotics, so please respect our copyright and these restrictions.
+
+
 One python notebook per section.
 
 Current Draft TOC:
